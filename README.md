@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateus Silva</h1>
+<h1 align="center">Hi 👋, I'm Mateus Maia</h1>
 <h3 align="center">Passionate about data analysis</h3>
 
 - 🔭 I’m currently working on **data analysis and database administration**
