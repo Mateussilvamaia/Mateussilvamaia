@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Databricks e Apache Hop**
 
-- 👨‍💻 All of my projects are available at [https://mateussilvamaia.github.io/portifolio/#projects](https://mateussilvamaia.github.io/portifolio/#projects)
+- 👨‍💻 All of my projects are available at [https://mateussilvamaia.github.io](https://mateussilvamaia.github.io)
 
 - 💬 Ask me about **Sql,Oracle, Google Data Studio, Pentaho e Python**
 
